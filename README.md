@@ -2,7 +2,7 @@
 ## Instructions
 - git clone `https://github.com/Relacibo/some-waywall-stuff`
 
-- Use `<full path of this repo>/libglfw.so` for custom glfw in prism with the path needed for waywall to work
+- Use `<full path of this repo>/libglfw.so` for custom glfw in prism which is needed for waywall to work
 - Use `<full path of this repo>/wayland wrap --` as your wrapper command in prism
 
 For both see https://tesselslate.github.io/waywall/00_setup.html#instance-setup
