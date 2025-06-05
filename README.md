@@ -14,6 +14,7 @@ Also take a look at my config: [init.lua](init.lua) which belongs in the folder 
 I was inspired by this script: https://github.com/sathya-pramodh/dotfiles/blob/main/waywall/init.lua
 
 See https://tesselslate.github.io/waywall/01_basics.html
+Waywall source code: https://github.com/tesselslate/waywall
 
 ## Licenses:
 [GWJGL](LWJGL-LICENSE.md) for libglfw.so
