@@ -1,4 +1,6 @@
 # some-waywall-stuff
+But I don't know if it is allowed like this... I will probably change this...
+
 ## Instructions
 - `git clone https://github.com/Relacibo/some-waywall-stuff`
 
